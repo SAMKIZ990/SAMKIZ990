@@ -1,115 +1,140 @@
 <div align="center">
 
-# 👋 Sammy Mwangi
+# ⚡ SAMMY MWANGI
 
-### 🚀 AI Product Builder • Full-Stack Developer • SaaS Creator
-
-Building modern AI-powered platforms focused on design, automation, and digital experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+Product+Builder;Full-Stack+Developer;Creative+Technologist;Building+Modern+Digital+Experiences" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-111827?style=for-the-badge&logo=vercel)](https://github.com/SAMKIZ990)
-[![GitHub](https://img.shields.io/badge/GitHub-SAMKIZ990-111827?style=for-the-badge&logo=github)](https://github.com/SAMKIZ990)
-[![Email](https://img.shields.io/badge/Email-skixotech@gmail.com-111827?style=for-the-badge&logo=gmail)](mailto:skixotech@gmail.com)
+### AI • Automation • SaaS • Design Systems • Creative Technology
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-SAMKIZ990-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAMKIZ990)
+
+[![Email](https://img.shields.io/badge/Email-skixotech@gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skixotech@gmail.com)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=SAMKIZ990&style=for-the-badge&color=7c3aed)](https://github.com/SAMKIZ990)
 
 </div>
 
 ---
 
-# 🌿 Current Project
+# 🧠 About Me
 
-## GraceCanvas
+I design and build scalable digital products focused on:
 
-AI-powered church media design platform built to help ministries create:
-- Posters
-- Flyers
-- Social media graphics
-- Worship visuals
-- Church branding assets
+- AI-powered applications
+- Modern SaaS systems
+- Frontend engineering
+- Automation workflows
+- Creative developer tooling
+- High-performance user experiences
 
-using AI + a modern visual editing workflow.
-
-### ⚡ Core Features
-
-- 🧠 AI poster generation
-- 🎨 Drag-and-drop editor
-- 🖼️ Template marketplace
-- 👥 Church media collaboration
-- 📦 Brand kit management
-- 📤 Multi-format export
-- 🔐 Authentication & workspace management
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-| Frontend | Backend | Database | AI & Tooling |
-|---|---|---|---|
-| Next.js | Node.js | Prisma | OpenAI API |
-| TypeScript | API Routes | SQLite | Playwright |
-| Tailwind CSS | REST APIs | PostgreSQL-ready | Automation |
-
-</div>
-
----
-
-# ⚡ Development Focus
+Focused on building software that feels:
 
 ```txt
-AI Applications
-SaaS Platforms
-Frontend Engineering
-Design Systems
-Developer Tooling
-Automation Workflows
+Fast • Intelligent • Minimal • Scalable
 ```
 
 ---
 
-# 📌 Featured Repository
-
-## 🌿 GraceCanvas
-
-🔗 https://github.com/SAMKIZ990/gracecanvas
-
-Modern AI-powered church media platform built with:
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Prisma
-- OpenAI integration
-
----
-
-# 📈 GitHub Stats
+# ⚡ Core Technologies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAMKIZ990&show_icons=true&theme=tokyonight&hide_border=true)
+![Next JS](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMKIZ990&layout=compact&theme=tokyonight&hide_border=true)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white)
+
+![Playwright](https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=white)
 
 </div>
 
 ---
 
-# 🧠 Philosophy
+# 🚀 Current Focus
 
-> Great software should reduce friction, amplify creativity, and feel effortless to use.
+```txt
+AI Applications
+SaaS Infrastructure
+Design Engineering
+Creative Automation
+Developer Experience
+Scalable Frontend Systems
+```
+
+---
+
+# 🌌 GitHub Presence
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SAMKIZ990&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<br/>
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SAMKIZ990&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMKIZ990&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<br/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SAMKIZ990&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMKIZ990&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+# 🌌 Philosophy
+
+> Technology should feel effortless, intelligent, and beautifully engineered.
+
+---
+
+# ⚡ Branding Principles
+
+```txt
+Clean Architecture
+Intentional Design
+Scalable Systems
+Fast Experiences
+Creative Innovation
+```
 
 ---
 
 # 📫 Connect
 
-- GitHub → https://github.com/SAMKIZ990
-- Email → skixotech@gmail.com
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-SAMKIZ990-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAMKIZ990)
+
+[![Email](https://img.shields.io/badge/Email-skixotech@gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skixotech@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Building the future of AI-assisted creativity
+### ⚡ Building modern digital systems for the AI era
 
 </div>
