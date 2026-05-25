@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,0D1117&height=120&section=header&text=SAM%20KIGWA&fontSize=52&fontColor=C8A97A&fontAlignY=65&animation=fadeIn&desc=AI%20Product%20Builder%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Creative%20Technologist&descAlignY=85&descSize=14&descColor=4A5568" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,0D1117&height=140&section=header&text=SAM%20KIGWA&fontSize=58&fontColor=C8A97A&fontAlignY=60&animation=fadeIn&desc=Founder%20%40%20SKIXOHUB%20%C2%B7%20AI%20Product%20Builder%20%C2%B7%20Full-Stack%20Engineer&descAlignY=80&descSize=14&descColor=4A5568" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=14&duration=3000&pause=1200&color=C8A97A&center=true&vCenter=true&width=750&lines=Designing+AI-native+digital+systems+%E2%80%94;SaaS+Infrastructure+%26+Product+Engineering+%E2%80%94;Frontend+Craft+%2B+Creative+Technology+%E2%80%94;Building+software+that+feels+intentional+%E2%80%94" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=14&duration=3000&pause=1200&color=C8A97A&center=true&vCenter=true&width=800&lines=Designing+AI-native+digital+systems+%E2%80%94;SaaS+Infrastructure+%26+Product+Engineering+%E2%80%94;Frontend+Craft+%2B+Creative+Technology+%E2%80%94;Building+software+that+feels+intentional+%E2%80%94;Founder+%40+SKIXOHUB+%E2%80%94" />
 
 </div>
 
@@ -16,24 +16,26 @@
 
 [![GitHub](https://img.shields.io/badge/github.com%2FSAMKIZ990-0D1117?style=flat-square&logo=github&logoColor=C8A97A&labelColor=0D1117)](https://github.com/SAMKIZ990)&nbsp;
 [![Email](https://img.shields.io/badge/skixotech%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=C8A97A&labelColor=0D1117)](mailto:skixotech@gmail.com)&nbsp;
+[![Brand](https://img.shields.io/badge/SKIXOHUB-0D1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0M4QTk3QSIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNUwxMiAyek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=&logoColor=C8A97A&labelColor=0D1117&label=)](https://github.com/SAMKIZ990)&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=SAMKIZ990&style=flat-square&color=C8A97A&label=Visitors&labelColor=0D1117)](https://github.com/SAMKIZ990)
 
 </div>
+
+<br/>
 
 ---
 
 <br/>
 
 ```
-╔─────────────────────────────────────────────────────────────────────╗
-│                                                                       │
-│   I design and engineer scalable digital products at the              │
-│   intersection of AI, modern SaaS infrastructure, and                 │
-│   high-craft user experience.                                         │
-│                                                                       │
-│   Software I build is:   Fast · Intelligent · Minimal · Scalable     │
-│                                                                       │
-╚─────────────────────────────────────────────────────────────────────╝
+╔──────────────────────────────────────────────────────────────────────╗
+│                                                                        │
+│   Founder @ SKIXOHUB — building AI-powered digital products           │
+│   at the intersection of intelligence, design, and engineering.        │
+│                                                                        │
+│   Software I build is:   Fast · Intelligent · Minimal · Scalable      │
+│                                                                        │
+╚──────────────────────────────────────────────────────────────────────╝
 ```
 
 <br/>
@@ -73,12 +75,12 @@
 
 | Area | Details |
 |---|---|
+| `SKIXOHUB` | Building the flagship AI-powered SaaS platform |
 | `AI Applications` | LLM integration · RAG pipelines · AI-native UX |
 | `SaaS Infrastructure` | Auth · Billing · Multi-tenancy · Webhooks |
 | `Design Engineering` | Design systems · Component architecture |
 | `Creative Automation` | Workflow tooling · Headless automation |
 | `Developer Experience` | CLI tools · SDK design · Internal tooling |
-| `Frontend Systems` | Performance · Accessibility · Scalable UI |
 
 </div>
 
@@ -162,12 +164,13 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-SAMKIZ990-0D1117?style=for-the-badge&logo=github&logoColor=C8A97A)](https://github.com/SAMKIZ990)&nbsp;
-[![Email](https://img.shields.io/badge/Email-skixotech%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=C8A97A)](mailto:skixotech@gmail.com)
+[![Email](https://img.shields.io/badge/Email-skixotech%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=C8A97A)](mailto:skixotech@gmail.com)&nbsp;
+[![SKIXOHUB](https://img.shields.io/badge/Brand-SKIXOHUB-0D1117?style=for-the-badge&logo=lightning&logoColor=C8A97A)](https://github.com/SAMKIZ990)
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,0D1117&height=100&section=footer&text=Building%20for%20the%20AI%20era&fontSize=14&fontColor=2E3650&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,0D1117&height=100&section=footer&text=SKIXOHUB%20%C2%B7%20Building%20for%20the%20AI%20era&fontSize=13&fontColor=2E3650&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
