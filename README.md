@@ -165,7 +165,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-SAMKIZ990-0D1117?style=for-the-badge&logo=github&logoColor=C8A97A)](https://github.com/SAMKIZ990)&nbsp;
 [![Email](https://img.shields.io/badge/Email-skixotech%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=C8A97A)](mailto:skixotech@gmail.com)&nbsp;
-[![SKIXOTECH](https://img.shields.io/badge/Brand-SKIXOTECH-0D1117?style=for-the-badge&logo=lightning&logoColor=C8A97A)](https://github.com/SAMKIZ990)
+[![SKIXOTECH](https://img.shields.io/badge/Brand-SKIXOTECH-0D1117?style=for-the-badge&logo=lightning&logoColor=C8A97A)](https://github.com/SKIXOTECH/SKIXOTECH/blob/main/README.md)
 
 </div>
 
