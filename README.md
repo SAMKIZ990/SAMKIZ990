@@ -16,7 +16,7 @@
 
 [![GitHub](https://img.shields.io/badge/github.com%2FSAMKIZ990-0D1117?style=flat-square&logo=github&logoColor=C8A97A&labelColor=0D1117)](https://github.com/SAMKIZ990)&nbsp;
 [![Email](https://img.shields.io/badge/skixotech%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=C8A97A&labelColor=0D1117)](mailto:skixotech@gmail.com)&nbsp;
-[![Brand](https://img.shields.io/badge/SKIXOTECH-0D1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0M4QTk3QSIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNUwxMiAyek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=&logoColor=C8A97A&labelColor=0D1117&label=)](https://github.com/SAMKIZ990)&nbsp;
+[![Brand](https://img.shields.io/badge/SKIXOTECH-0D1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0M4QTk3QSIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNUwxMiAyek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=&logoColor=C8A97A&labelColor=0D1117&label=)](https://github.com/SKIXOTECH)&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=SAMKIZ990&style=flat-square&color=C8A97A&label=Visitors&labelColor=0D1117)](https://github.com/SAMKIZ990)
 
 </div>
